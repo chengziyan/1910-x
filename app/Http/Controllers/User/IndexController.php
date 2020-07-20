@@ -56,8 +56,8 @@ class IndexController extends Controller
         }
 	}
    //合并测试
-   public function(){
-   echo '合并';
-   
-   }
+	public function user()
+	{
+   		echo '合并';
+   	}
 }
