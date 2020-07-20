@@ -58,6 +58,6 @@ class IndexController extends Controller
 
 	//user
 	public function user(){
-		echo "ccccc";
+		echo 111111;
 	}
 }
