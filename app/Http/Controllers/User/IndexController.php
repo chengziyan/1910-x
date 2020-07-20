@@ -54,5 +54,10 @@ class IndexController extends Controller
             echo "请重新登录";
             redirect('/user/login'); 
         }
-    }
+	}
+   //合并测试
+   public function(){
+   echo '合并';
+   
+   }
 }
