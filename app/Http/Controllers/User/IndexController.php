@@ -57,6 +57,6 @@ class IndexController extends Controller
 	}
 	//user
 	public function user(){
-		echo "www"; 
+		echo "qweqwe"; 
 	}
 }
