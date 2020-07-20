@@ -54,5 +54,10 @@ class IndexController extends Controller
             echo "请重新登录";
             redirect('/user/login'); 
         }
-    }
+	}
+	//xuan
+	public function xuan(){
+	echo '1111';
+	
+	}
 }
