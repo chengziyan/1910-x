@@ -55,6 +55,7 @@ class IndexController extends Controller
             redirect('/user/login'); 
         }
 	}
+
 	//user
 	public function user(){
 		echo "aaaaaaa"; 
