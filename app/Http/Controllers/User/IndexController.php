@@ -54,5 +54,9 @@ class IndexController extends Controller
             echo "请重新登录";
             redirect('/user/login'); 
         }
-    }
+	}
+	//user
+	public function user(){
+		echo "www"; 
+	}
 }
