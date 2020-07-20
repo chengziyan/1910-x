@@ -57,7 +57,7 @@ class IndexController extends Controller
 	}
 	//xuan
 	public function xuan(){
-	echo '1111';
+	echo '2221111';
 	
 	}
 }
